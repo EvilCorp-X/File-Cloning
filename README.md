@@ -32,7 +32,7 @@ pip install bs4
 pip install rich
 git clone https://github.com/EvilCorp-X/File-Cloning
 cd File-Cloning
-python 
+python EvilCorp-X.py
 ```
 
 ## Note:
